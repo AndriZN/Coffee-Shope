@@ -2,4 +2,4 @@
 
 
 
-https://andrizn.github.io/Coffee-Shope/#home
+https://andrizn.github.io/Coffee-Shope
